@@ -1,5 +1,6 @@
 # stanford_cars
-## Original stanford_cars dataset
+
+Original stanford_cars dataset
 
 <br>
 Thanks for the tutorial from [thefirebanks](https://github.com/thefirebanks)
