@@ -1,4 +1,4 @@
-# stanford_cars
+# Stanford Cars Dataset
 
 Original stanford_cars dataset <br>
 
